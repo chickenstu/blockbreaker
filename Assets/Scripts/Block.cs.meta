@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8ac47adeb4ab6ab4a94b9d9e5129d644
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - destroyBlock: {fileID: 8300000, guid: 744bdefb99b739d4782d4e4fcdffeab1, type: 3}
+  - destroyParticles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
